@@ -1,4 +1,4 @@
-uvicorn~=0.31.0
+uvicorn~=0.34.0
 faststream[otel,rabbit,prometheus]~=0.5.34
 opentelemetry-exporter-otlp>=1.24.0
 aiogram~=3.17.0
